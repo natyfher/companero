@@ -16,7 +16,8 @@ public class Ejercicio {
      */
     public static void main(String[] args) {
        System.out.println("Hola compañero");
-        System.out.println("Voy a hacer el primer cambio");
+       System.out.println("Voy a hacer el primer cambio");
+       System.out.println("HOLA MUNDO, SOY NATASCHA USUARIO 2");
     }
     
 }
